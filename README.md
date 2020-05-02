@@ -3,7 +3,7 @@ This is a capstone project in python to develop entire full text index search to
 
 
 # Existing search capabilities-
-  \n-Create indexes (in-memory) for given files
+  -Create indexes (in-memory) for given files
   -Search for a word or a phrase in a file
   -Search in multiple files
   -Display search results- files that contain the word and frequency of occurrence in each file
