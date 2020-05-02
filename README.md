@@ -21,5 +21,5 @@ This is a capstone project in python to develop entire full text index search to
   - Run periodic update of indexes
 
 ## Example:
-**Search results for a word "pune":**
-![Example1](https://drive.google.com/uc?id=1LbsZEqt8mRDkpddZDlpOzePSLvtPesFO)
+**Search results for a word "pune":** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;![Example1](https://drive.google.com/uc?id=1LbsZEqt8mRDkpddZDlpOzePSLvtPesFO)
