@@ -1,6 +1,6 @@
-# Full Text Search Index Tool - Python capstone project (based on inverted index)
-This is a capstone project in python to develop entire full text index search tool to be capable of indexing several files based on inverted index and enable a quick textual search capability in all files' contents.
-
+# Indexed Search Tool - Python capstone project (based on inverted index)
+This is a capstone project in python to develop entire full text index search tool to be capable of indexing several files based on inverted index and enable a quick textual search capability in all files' contents. <br />
+![SearchImage](https://drive.google.com/uc?id=10sWLl8uxAM77RT7YRdLZaiVOs4QxOFOW)
 ---
 
 ## Existing search capabilities:
