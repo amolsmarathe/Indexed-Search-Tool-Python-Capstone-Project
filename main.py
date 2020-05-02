@@ -1,26 +1,4 @@
 
-import docx
-
-
-def docx_to_plain_text(docx_path, plain_text_path):
-    """
-    Convert a .docx file into plain text file. This plain text will be further used to build indexes.
-
-    :param docx_path: Full path of the .docx document to be converted to plain text
-    :param plain_text_path: Full path of a temporary test.txt file where the converted plain text will be stored for
-     later use to build indexes
-    :return: None
-    """
-    f1_doc = docx.opendocx(docx_path)
-    f1_para_list = docx.getdocumenttext(f1_doc)
-
-    plain_text = open(plain_text_path, 'w')
-    for para in f1_para_list:
-        para = remove_punctuations(para)
-        plain_text.write('\n' + para)
-    plain_text.close()
-
-
 def remove_punctuations(text):
     """
     Filter and remove all the unwanted punctuations and special characters from the given text.
