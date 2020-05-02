@@ -19,3 +19,7 @@ This is a capstone project in python to develop entire full text index search to
   - Store the files as well as indexes in DB
   - Check if the file is modified or new and only then index it
   - Run periodic update of indexes
+
+## Example:
+**Search results for a word "pune":** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;![Example1](https://drive.google.com/uc?id=1LbsZEqt8mRDkpddZDlpOzePSLvtPesFO)
